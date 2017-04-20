@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">LecturesRecorder</string>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="header_margin">64dp</dimen>
+    <dimen name="view_horizontal_margin">8dp</dimen>
+    <dimen name="view_vertical_margin">8dp</dimen>
+
+    <!-- text labels -->
+    <string name="label_name">Name:</string>
+    <string name="label_last_name">Last Name:</string>
+    <string name="label_email">Email address:</string>
+    <string name="label_password">Password:</string>
+    <string name="label_password_confirm">Retype password:</string>
+
+    <!-- button labels -->
+    <string name="button_register">Register</string>
+
+    <!-- warnings -->
+    <string name="warning_name_empty">Name cannot be empty</string>
+    <string name="warning_name_lowercase">Name should start from an uppercase letter</string>
+    <string name="warning_email_empty">Email cannot be empty</string>
+    <string name="warning_email_invalid">Invalid email format</string>
+    <string name="warning_password_empty">Password cannot be empty</string>
+    <string name="warning_passwords_do_not_match">Passwords do not match</string>
+
+    <!-- info messages -->
+    <string name="info_registered">Registered. ObjectId: %s</string>
+
+    <!-- loading messages -->
+    <string name="loading_empty">Loading…</string>
+    <string name="loading_register">Sending registration request…</string>
+
+
+    <!-- activity names -->
+    <string name="activity_registration">Endless-To-Go Registration</string>
+
+
+    <string name="activity_login">Endless-To-Go Login</string>
+
+    <string name="button_login">Login</string>
+    <string name="button_login_facebook">Login with Facebook</string>
+    <string name="button_login_twitter">Login with Twitter</string>
+
+    <!-- texts -->
+    <string name="register_prompt">Do not have an account? Register now</string>
+    <string name="divider_or">OR</string>
+    <string name="register_link">Register</string>
+
+
+    <!-- info messages -->
+    <string name="info_registered_template">Registered. ObjectId: %s</string>
+    <string name="info_registered_success">Registered successfully</string>
+    <string name="info_logged_in">Logged in. ObjectId: %s</string>
+
+    <string name="loading_login">Logging in…</string>
+
+
+    <string name="tab_title_record">Record</string>
+    <string name="tab_title_saved_recordings">Saved Recordings</string>
+
+    <!-- Toasts -->
+    <string name="toast_recording_start">Recording started</string>
+    <string name="toast_recording_finish">Recording saved to</string>
+    <string name="toast_file_delete">%1$s successfully deleted</string>
+    <string name="toast_file_exists">The file %1$s already exists. Please choose a different file name.</string>
+
+    <!-- Notifications -->
+    <string name="notification_recording">Recording...</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_title_delete">Confirm Delete...</string>
+    <string name="dialog_text_delete">Are you sure you would like to delete this file?</string>
+    <string name="dialog_title_licenses">Open Source Licenses</string>
+    <string name="dialog_title_share">Share File</string>
+    <string name="dialog_title_rename">Rename File</string>
+    <string name="dialog_title_options">Options</string>
+
+    <string name="dialog_file_share">Share File</string>
+    <string name="dialog_file_rename">Rename File</string>
+    <string name="dialog_file_delete">Delete File</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_yes">Yes</string>
+    <string name="dialog_action_no">No</string>
+
+    <string name="no_saved_recordings_message">No saved recordings</string>
+    <string name="pause_recording_button">Pause</string>
+    <string name="resume_recording_button">Resume</string>
+    <string name="default_file_name">Lesson</string>
+    <string name="record_prompt">Tap the button to start recording</string>
+    <string name="record_in_progress">Recording</string>
+
+    <string name="send_to">Send to</string>
+
+</resources>
+
+
+
